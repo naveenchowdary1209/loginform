@@ -1,0 +1,58 @@
+.a{
+
+    background-color:white;
+    border-color:grey;
+    border-style:ridge;
+    margin-right:570px;
+    margin-left:550px;
+    margin-bottom:100px;
+   
+}
+.b{
+	background-color:skyblue;
+	color:white;
+	margin-top:30px;
+	border-radius:5px;
+}
+.i
+{
+ padding:5px 100px 5px 10px;
+ border-radius:5px;
+ }
+.section.button
+{
+	background-color: black;
+}
+.but
+{
+	padding:10px 130px 10px 130px;
+	border-radius:30px;
+	border-style:solid;
+	background-color: skyblue;
+	color:white;
+	opacity: 1;
+}
+.fbbut
+{
+	padding:5px 145px 5px 140px;
+	border-radius:8px;
+	background-color: #3b5998 ;
+	color:white;"
+}
+.gogbut
+{
+	padding:5px 135px 5px 135px;
+	border-radius:8px;
+	background-color: #de5246 ;
+	color:white;
+}
+.ebut
+{
+	padding:8px 90px 8px 90px;
+	border-radius:8px;
+	background-color:#cccc00;
+	color:white;
+}
+button:hover {
+  opacity:1;
+}
